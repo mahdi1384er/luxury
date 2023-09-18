@@ -3,45 +3,45 @@
     {
       "id": 1,
       "title": "اجاره کلبه استخردار",
-      "img": "/img/507/3.jpeg",
+      "img": "../vite-project/public/img/507/3.jpeg",
       "imgsSliders": [
         [
-          "/img/507/2.jpeg"
+          "../vite-project/public/img/507/2.jpeg"
         ]
       ],
       "imgsSliders2": [
         [
-          "/img/507/3.jpeg"
+          "../vite-project/public/img/507/3.jpeg"
         ]
       ],
       "imgsSliders3": [
         [
-          "/img/507/4.jpeg"
+          "../vite-project/public/img/507/4.jpeg"
         ]
       ],
       "imgsSliders4": [
         [
-          "/img/507/5.jpeg"
+          "../vite-project/public/img/507/5.jpeg"
         ]
       ],
       "imgsSliders5": [
         [
-          "/img/507/6.jpeg"
+          "../vite-project/public/img/507/6.jpeg"
         ]
       ],
       "imgsSliders6": [
         [
-          "/img/507/7.jpeg"
+          "../vite-project/public/img/507/7.jpeg"
         ]
       ],
       "imgsSliders7": [
-        "/img/507/8.jpeg"
+        "../vite-project/public/img/507/8.jpeg"
       ],
       "imgsSliders8": [
-        "/img/507/9.jpeg"
+        "../vite-project/public/img/507/9.jpeg"
       ],
       "imgsSliders9": [
-        "/img/507/10.jpeg"
+        "../vite-project/public/img/507/10.jpeg"
       ],
       "author": " کد ۷۰۱",
       "data": "تقویم",
